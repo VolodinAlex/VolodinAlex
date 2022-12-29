@@ -26,6 +26,7 @@ future data scientist
 
 🙌🏻 Contact me  
 [Telegram](https://t.me/vo1odin_a1ex)  
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)(https://www.kaggle.com/alexvolodin)  
+![Kaggle](https://www.kaggle.com/alexvolodin)(https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)  
+
 [Kaggle](https://www.kaggle.com/alexvolodin)
 [LinkedIn](https://www.linkedin.com/feed/)
