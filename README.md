@@ -2,14 +2,14 @@
 
 Are you searching for my projects and work? It's [HERE](https://github.com/VolodinAlex/alekaran/tree/AlekaranDS)
 
-### About me
+### About me ☣️
 former vet  
 currently studying and job seeker  
 future data scientist
 
 ![](https://miro.medium.com/max/925/1*E1haIGB9K4K89PsFZgm-pw.jpeg)
 
-### 💡 Core competencies 💡
+### Core competencies 💡
 - 🔨 **Tools**: Python, SQL
 - 🔧 **Hard skills**:
    - Machine Learning
@@ -24,7 +24,7 @@ future data scientist
    - Сritical thinking
    - Analytic mind
 
-🙌🏻 Contact me  
+### Contact me  🙌🏻 
 [Telegram](https://t.me/vo1odin_a1ex)  
 [Kaggle](https://www.kaggle.com/alexvolodin)  
 [LinkedIn](https://www.linkedin.com/in/volodin-alex/)
