@@ -22,6 +22,6 @@ future data scientist
    - Analytic mind
 
 🙌🏻 Contact me
-[Telegram](https://t.me/vo1odin_a1ex)
-[Kaggle](https://www.kaggle.com/alexvolodin)
+[Telegram](https://t.me/vo1odin_a1ex)  
+[Kaggle](https://www.kaggle.com/alexvolodin)  
 [LinkedIn](https://www.linkedin.com/feed/)
