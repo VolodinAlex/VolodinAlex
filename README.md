@@ -7,7 +7,7 @@ former vet
 currently studying and job seeker  
 future data scientist
 
-![](https://miro.medium.com/max/925/1*E1haIGB9K4K89PsFZgm-pw.jpeg](https://miro.medium.com/max/925/1*E1haIGB9K4K89PsFZgm-pw.jpeg)
+![](https://miro.medium.com/max/925/1*E1haIGB9K4K89PsFZgm-pw.jpeg)
 
 ### 💡 Core competencies 💡
 - 🔨 **Tools**: Python, SQL
