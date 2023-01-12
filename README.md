@@ -27,6 +27,7 @@ The presence of an analytical mindset and ambition pushed for change. At the mom
    - Time-management
    - Сritical thinking
    - Analytic mind
+   - Probability theory
 
 ### Contact me  🙌🏻 
 [Telegram](https://t.me/vo1odin_a1ex)  
