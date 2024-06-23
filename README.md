@@ -15,11 +15,11 @@ My past experience has contributed to the development of logical and structured 
 ### Core competencies 💡
 - 🔨 **Tools**: Python, SQL, BI, Airflow, Excel/Google Sheets
 - 🔧 **Hard skills**:
- - Data Analysis and Visualization: Proficiency in Python (pandas, numpy, matplotlib, seaborn), SQL, and BI tools (e.g., Tableau, Power BI, Looker)
+ - Data Analysis and Visualization: Proficiency in Python (pandas, numpy, matplotlib, seaborn), SQL, and BI tools (e.g., SuperSet, Redash, Datalens, Tableau)
  - Spreadsheet Skills: Advanced skills in Excel and Google Sheets (e.g., pivot tables, VLOOKUP, complex formulas)
  - Statistical Analysis: Knowledge of statistical methods and tools (e.g., hypothesis testing, regression analysis, A/B testing)
  - Programming: Scripting and automation with Python, including familiarity with libraries for data manipulation and analysis
- - Database Management: Understanding of database design and management, experience with relational databases (e.g., MySQL, PostgreSQL, ClickHouse)
+ - Database Management: Understanding of database design and management, experience with relational databases (e.g. PostgreSQL, ClickHouse,  MySQL)
  - ETL Processes: Experience designing and implementing ETL processes
  - Version Control: Familiarity with version control systems like Git
  - Business Acumen: Ability to translate business requirements into analytical tasks and interpret analysis results in a business context
