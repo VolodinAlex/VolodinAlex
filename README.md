@@ -6,7 +6,7 @@ Are you searching for my projects and work? It's [HERE](https://github.com/Volod
 former vet  
 currently studying and working as Product Analyst
 
-![](currently studying and working as Product Analyst)
+![](https://emeritus.org/wp-content/uploads/2023/11/Skills-Required-for-Data-Analyst-1024x536.png)
 
 
 I have the ability to see meaning behind numbers and identify patterns, which is why I work and actively develop as a Product Analyst.
