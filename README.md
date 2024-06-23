@@ -4,22 +4,26 @@ Are you searching for my projects and work? It's [HERE](https://github.com/Volod
 
 ### About me ☣️
 former vet  
-currently studying and job seeker  
-future data scientist
+currently studying and working as Product Analyst
 
-![](https://miro.medium.com/max/925/1*E1haIGB9K4K89PsFZgm-pw.jpeg)
+![](currently studying and working as Product Analyst)
 
-More than 5 years of work in veterinary medicine contributed to the development of logical, structural thinking, potentiated the ability to quickly and unconventionally solve problems, improved communication skills.
 
-The presence of an analytical mindset and ambition pushed for change. At the moment, I have been studying at SkillFactory as a Data Scientist for about a year. All my free time is immersed in the subject area - improving my skills, exploring articles and reading professional literature.
+I have the ability to see meaning behind numbers and identify patterns, which is why I work and actively develop as a Product Analyst.
+My past experience has contributed to the development of logical and structured thinking, proactivity, the ability to solve tasks quickly and creatively, and has also improved my communication skills.
 
 ### Core competencies 💡
-- 🔨 **Tools**: Python, SQL
+- 🔨 **Tools**: Python, SQL, BI, Airflow, Excel/Google Sheets
 - 🔧 **Hard skills**:
-   - Machine Learning
-   - Visualisation
-   - Data Preprocessing and Data Analysis
-   - Mathematical statistics   
+ - Data Analysis and Visualization: Proficiency in Python (pandas, numpy, matplotlib, seaborn), SQL, and BI tools (e.g., Tableau, Power BI, Looker)
+ - Spreadsheet Skills: Advanced skills in Excel and Google Sheets (e.g., pivot tables, VLOOKUP, complex formulas)
+ - Statistical Analysis: Knowledge of statistical methods and tools (e.g., hypothesis testing, regression analysis, A/B testing)
+ - Programming: Scripting and automation with Python, including familiarity with libraries for data manipulation and analysis
+ - Database Management: Understanding of database design and management, experience with relational databases (e.g., MySQL, PostgreSQL, ClickHouse)
+ - ETL Processes: Experience designing and implementing ETL processes
+ - Version Control: Familiarity with version control systems like Git
+ - Business Acumen: Ability to translate business requirements into analytical tasks and interpret analysis results in a business context
+    
 - 🔆 **Soft skills**:
    - Proactive
    - Ambition
